@@ -80,6 +80,6 @@ jobs:
         with:
           image-ref: 'kr483/event_manager:${{ github.sha }}'
           format: 'table'
-          exit-code: '1' # Fail the job if vulnerabilities are found
+          exit-code: '1' 
           ignore-unfixed: true
           severity: 'CRITICAL,HIGH'
