@@ -43,3 +43,5 @@ Another technical challenge involved updating dependencies and refining function
 
 Collaboratively, this assignment enhanced my skills in project management and effective communication within a team setting. An oversight in not committing and pushing changes after modifying validation rules highlighted the importance of maintaining regular updates and transparent communication with team members. This experience underscored the need for structured project management practices, such as regular check-ins and peer reviews before merging changes. These practices would not only improve the quality of the project output but also ensure a more cohesive and productive team environment.
 
+
+![Screenshot (43)](https://github.com/Kiran-Ramisetti-kr483/event_manager/assets/157845848/b82f789a-ba1a-4642-8e59-3a4610d6bd74)
